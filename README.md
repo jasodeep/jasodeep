@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi! 👋
 
+- 🔭 I work at [Zoom Video Communications, Inc.](https://www.zoom.us).
+- 💻 I'm a Devops Engineer.
+- 🙌 Reach me via:
+    - 🔗 [LinkedIn](https://www.linkedin.com/in/jasodeep-chatterjee-5b433991/)
+    - 📪 [Email](mailto:jasodeepchatterjee@gmail.com)
 <!--
 **jasodeep/jasodeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
