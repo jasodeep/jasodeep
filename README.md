@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-- 🔭  I work at [Zoom Video Communications, Inc.](https://www.zoom.us).
+- 🔭  I work at [Zoom Video Communications, Inc.](https://github.com/zoom).
 - 💻  I'm a Devops Engineer.
 - 🙌  Reach me via:
     - 🔗 [LinkedIn](https://www.linkedin.com/in/jasodeep-chatterjee-5b433991/)
